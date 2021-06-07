@@ -1,0 +1,7 @@
+pFactory\ScoreAndFixture.class
+Trunner\RunnerTest.class
+hooks\HookClass.class
+pFactory\SignInPage.class
+pFactory\Sports.class
+pFactory\Header.class
+steps\StepDefinition.class
